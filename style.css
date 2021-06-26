@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    padding-top: 300px;
+}
+#main{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+    
+}
+#welcome{
+    height: 800px;
+    background: linear-gradient(#58e3d0,#e3586b,#dae358);
+    width: 100%;
+    padding-top: 300px;
+}
